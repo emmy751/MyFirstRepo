@@ -1,3 +1,3 @@
 # MyFirstRepo
 
-This file was changed. This file was modified locally
+This line line was modifies manually while resolving the marging conflict
